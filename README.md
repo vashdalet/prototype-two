@@ -1,6 +1,6 @@
 # 3D Gravity Mechanics Playground
 
-This playground prototype was created to explore some gravity mechanics.
+This playground prototype was created to explore some gravity mechanics (inspired by Outer Wilds game).
 
 
 ## Features and Mechanics
@@ -15,17 +15,20 @@ This prototype introduces two distinct gravity mechanics:
   * To successfully ascend to the higher platform, players must time their movement to exit the gravity field at the optimal moment.
 
 ## Visuals
-[Overview of the Playground](screenshots/playground_overview.png)
-An overview of the playground.
+![Overview of the Playground](screenshots/playground_overview.png)
+* An overview of the playground.
 
-[Gravity Wall Horizontal](screenshots/gravity_wall_90.gif)
+![Gravity Wall Horizontal](screenshots/gravity_wall_90.gif)
+* In this GIF, the player navigates the first Gravity Wall. The gravitational force turns the player 90 degrees.
 
-[Overview of the Playground](screenshots/gravity_cannon.gif)
+![Overview of the Playground](screenshots/gravity_cannon.gif)
+* The GIF demonstrates the Gravity Cannon in action. The player is propelled upwards to reach an elevated platform effectively.
 
-[Overview of the Playground](screenshots/gravity_wall_180.gif)
+![Overview of the Playground](screenshots/gravity_wall_180.gif)
+* This GIF showcases the second Gravity Wall's effect. The player experiences a complete 180-degree flip.
 
 
-## Known Issues and Future Enhancements
+## Next Steps
 
 Currently, this prototype lacks specific objectives or engaging goals for players. In future updates, I plan to enhance the gameplay experience by either:
 - Developing puzzle levels that leverage existing gravity mechanics
