@@ -1,4 +1,4 @@
-# 3D Gravity Mechanics Playground
+👩‍🚀 # 3D Gravity Mechanics Playground
 
 This playground prototype was created to explore some gravity mechanics (inspired by Outer Wilds game).
 
