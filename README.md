@@ -21,7 +21,7 @@ This prototype introduces two distinct gravity mechanics:
 * In the GIF below, the player navigates the first Gravity Wall. The gravitational force turns the player 90 degrees.
 ![Gravity Wall Horizontal](screenshots/gravity_wall_90.gif)
 
-* The GIF demonstrates the Gravity Cannon in action. The player is propelled upwards to reach an elevated platform effectively.
+* The GIF demonstrates the Gravity Cannon. The player is propelled upwards to reach an elevated platform.
 ![Overview of the Playground](screenshots/gravity_cannon.gif)
 
 * This GIF showcases the second Gravity Wall's effect. The player experiences a complete 180-degree flip.
